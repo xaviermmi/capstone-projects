@@ -1,5 +1,5 @@
 # Case Study - Recipe site traffic
-![website-recipe-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/99eb6651-38b1-46ef-a778-80837c71b736)
+![website-recipe-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/9ba494da-9fe8-422b-b4f4-f7f589e8c794)
 
 ## 1. Introduction
 <p>Tasty Bytes was founded in 2020 in the midst of the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started life as a search engine for recipes, helping
