@@ -1,6 +1,5 @@
 # Food claims process
-![brazilian_food-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/12196a29-0a7b-4669-bc46-7d17341ed9fc)
-
+![brazilian_food-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/d3c401ca-149a-43f9-9520-6acdd19d5332)
 
 ## 1. Introduction
 <p>Vivendo is a fast food chain in Brazil with over 200 outlets. As with many fast food
