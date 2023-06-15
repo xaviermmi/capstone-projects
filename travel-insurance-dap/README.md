@@ -1,5 +1,5 @@
 # Case Study - Travel Insurance company
-![umbrella-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/0d7806ae-125b-4c2d-8b88-96d3f4a28404)
+![umbrella-unsplash](https://github.com/xaviermmi/capstone-projects/assets/122324304/12c47507-3fb5-4a03-a54f-e7155c807e4c)
 
 ## 1. Introduction
 <p>Travel Assured is a travel insurance company. <br>
