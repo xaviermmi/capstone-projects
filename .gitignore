@@ -19,16 +19,14 @@ school-budgets-tr/
 # PERMANENT_CUSTOM
 
 ## private files
-#tbd
+todo.txt
+*.html
 
 ## IDEs config
 .vscode/
 
 ## custom style sheets and utils
 #tbd
-
-## todo files
-todo.txt
 
 
 # PERMANENT_PYTEMPLATE
